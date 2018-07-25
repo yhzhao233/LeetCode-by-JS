@@ -2,7 +2,7 @@
 LeetCode Algorithm
 
 | # | Title                               | Solution | Difficulty|type       |
-|---|-------------------------------------|----------|-----------|Linked List|
+|---|-------------------------------------|----------|-----------|-----------|
 |002|Add Two Numbers                      |JavaScript|Medium     |Linked List|
 |019|Remove Nth Node From End of List     |JavaScript|Medium     |Linked List|
 |021|Merge Two Sorted Lists               |JavaScript|easy       |Linked List|
