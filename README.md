@@ -8,6 +8,7 @@ LeetCode Algorithm
 |015|3Sum                                       |JavaScript|Medium     |Array      |
 |016|3Sum Closest                               |JavaScript|Medium     |Array      |
 |017|Letter Combinations of a Phone Number      |JavaScript|Medium     |String     |
+|018|4Sum                                       |JavaScript|Medium     |Array      |
 |019|Remove Nth Node From End of List           |JavaScript|Medium     |Linked List|
 |021|Merge Two Sorted Lists                     |JavaScript|easy       |Linked List|
 |024|Swap Nodes in Pairs                        |JavaScript|Medium     |Linked List|
