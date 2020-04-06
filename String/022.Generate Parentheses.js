@@ -19,7 +19,7 @@ For example, given n = 3, a solution set is:
  /* 
           runtime                       memory
   第一版    60 ms(faster than 45.11%)    35.2MB(less than 53.85%)
-  第一版    60 ms(faster than 45.11%)    34.9MB(less than 84.62% )
+  第二版    60 ms(faster than 45.11%)    34.9MB(less than 84.62% )
 */
 // 思路: 两个参数记录左右括号剩余数量，都为0则记录字符串
 var generateParenthesis = function (n) {
