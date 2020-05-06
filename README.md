@@ -16,6 +16,7 @@ LeetCode Algorithm
 |033|Search in Rotated Sorted Array                           |JavaScript|Medium     |Array      |
 |034|Find First and Last Position of Element in Sorted Array  |JavaScript|Medium     |Array      |
 |039|Combination Sum                                          |JavaScript|Medium     |Array      |
+|048|Rotate Image                                             |JavaScript|Medium     |Array      |
 |081|Search in Rotated Sorted Array II                        |JavaScript|Medium     |Array      |
 |082|Remove Duplicates from Sorted List II                    |JavaScript|Medium     |Linked List|
 |086|Partition List                                           |JavaScript|Medium     |Linked List|
