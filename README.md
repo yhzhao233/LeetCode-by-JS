@@ -39,3 +39,6 @@ LeetCode Algorithm
 |092|Reverse Linked List II                                   |JavaScript|Medium     |Linked List       |
 |096|Binary Tree Inorder Traversal                            |JavaScript|Medium     |Tree              |
 |109|Convert Sorted List to Binary Search Tree                |JavaScript|Medium     |Linked List       |
+|114|Flatten Binary Tree to Linked List                       |JavaScript|Medium     |Tree              |
+|116|Populating Next Right Pointers in Each Node              |JavaScript|Medium     |Tree              |
+|226|Invert Binary Tree                                       |JavaScript|Easy       |Tree              |
