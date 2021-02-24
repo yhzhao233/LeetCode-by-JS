@@ -44,4 +44,8 @@ LeetCode Algorithm
 |114|Flatten Binary Tree to Linked List                                                             |JavaScript|Medium     |Tree              |
 |116|Populating Next Right Pointers in Each Node                                                    |JavaScript|Medium     |Tree              |
 |226|Invert Binary Tree                                                                             |JavaScript|Easy       |Tree              |
+|230|Kth Smallest Element in a BST                                                                  |JavaScript|Medium     |Tree              |
+|538|Convert BST to Greater Tree                                                                    |JavaScript|Medium     |Tree              |
+|652|Find Duplicate Subtrees                                                                        |JavaScript|Medium     |Tree              |
 |654|Maximum Binary Tree                                                                            |JavaScript|Medium     |Tree              |
+|1038|Binary Search Tree to Greater Sum Tree                                                        |JavaScript|Medium     |Tree              |
